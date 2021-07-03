@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is **Fan Cheng** and I love statistics. 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ffancheng)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ffancheng&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
+
+
 <!--
 **ffancheng/ffancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
